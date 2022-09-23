@@ -1,0 +1,15 @@
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.csproj.AssemblyReference.cache
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.AssemblyInfoInputs.cache
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.AssemblyInfo.cs
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.csproj.CoreCompileInputs.cache
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\bin\Debug\net6.0\exercises_lecture3.exe
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\bin\Debug\net6.0\exercises_lecture3.deps.json
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\bin\Debug\net6.0\exercises_lecture3.runtimeconfig.json
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\bin\Debug\net6.0\exercises_lecture3.dll
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\bin\Debug\net6.0\exercises_lecture3.pdb
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.dll
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\refint\exercises_lecture3.dll
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.pdb
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\exercises_lecture3.genruntimeconfig.cache
+C:\Users\nkvitsiani\Desktop\500 tech\Lecture 3\exercises_lecture3\exercises_lecture3\obj\Debug\net6.0\ref\exercises_lecture3.dll
